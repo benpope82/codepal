@@ -1,0 +1,31 @@
+// Alec
+// ------------------------------------------
+
+SP1 (Start - Oct 7)
+- 3hr resesarching libraries for editor/compilation/running
+- 2hr implementing ace editor prototype
+- 4hr implementing ace editor + hackerearth api prototype
+- 1hr figuring out specs
+- 
+SP2
+- 1hr implement revealing prototype module js pattern
+- 3hr implement base module with compilation/running
+- 2hr integrate language support ace
+
+// Justin
+// ------------------------------------------
+
+// Stephen
+// ------------------------------------------
+
+// Mark
+// ------------------------------------------
+
+// Aviral
+// ------------------------------------------
+
+// Tushar
+// ------------------------------------------
+
+// Andrew
+// ------------------------------------------
