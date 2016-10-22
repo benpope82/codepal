@@ -12,6 +12,8 @@ SP2
 - 3hr implement base module with compilation/running
 - 2hr integrate language support ace
 
+- 2hr implementing basic tab functionality
+
 // Justin
 // ------------------------------------------
 
