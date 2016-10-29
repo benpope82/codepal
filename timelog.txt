@@ -14,6 +14,9 @@ SP2
 
 - 2hr implementing basic tab functionality
 
+SP3
+- 2hr implement delete tab functionality
+
 // Justin
 // ------------------------------------------
 
