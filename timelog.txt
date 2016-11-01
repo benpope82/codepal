@@ -18,6 +18,8 @@ SP3
 - 2hr implement delete tab functionality
 - 1hr implement lang saving between tab switch
 
+- 2hr setting up jasmine annd jasmine-jquery
+
 // Justin
 // ------------------------------------------
 
