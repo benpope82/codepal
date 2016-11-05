@@ -22,7 +22,26 @@ SP3
 - 2hr code cleanup of editor.js ui.js, and editorSpec finished
 
 // Justin
-// ------------------------------------------
+SP1
+- ~13 hours
+- learning jquery + research
+- figuring out specs
+- adding bindings
+- language change functionality
+- theme change functionality
+- UI cleanup/styling
+SP2
+~10 hours
+- error handling
+- testing language compilation
+- testing language run
+- testing error returns from HackerEarth API
+SP3
+- ~5 hours
+- setting up jasmine/ & karma
+- util spec finished
+- research how to make dummy callback response
+- execute spec, intermediate work
 
 // Stephen
 // ------------------------------------------
