@@ -37,11 +37,13 @@ SP2
 - testing language run
 - testing error returns from HackerEarth API
 SP3
-- ~5 hours
+- ~10 hours
 - setting up jasmine/ & karma
 - util spec finished
 - research how to make dummy callback response
 - execute spec, intermediate work
+- research ajax testing
+- implement mock ajax
 
 // Stephen
 // ------------------------------------------
