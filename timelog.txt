@@ -37,7 +37,7 @@ SP2
 - testing language run
 - testing error returns from HackerEarth API
 SP3
-- ~10 hours
+- ~14 hours
 - setting up jasmine/ & karma
 - util spec finished
 - research how to make dummy callback response
