@@ -44,6 +44,15 @@ SP3
 - execute spec, intermediate work
 - research ajax testing
 - implement mock ajax
+SP4
+- ~15 hours
+- begin modelling automatic error searching
+- continue error translation and styling
+- integration with goldenLayout
+- merge with gh pages
+- refitting execute.js for using repl.it instead of HackerEarth API
+- researching repl.it barebones documentation
+- restyling outputs to fit repl model
 
 // Stephen
 // ------------------------------------------
