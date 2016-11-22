@@ -58,7 +58,40 @@ SP4
 - Automatic error searching for JS
 
 // Stephen
-// ------------------------------------------
+SP 1 total: 15 hours
+Platform Design
+	Choose and setup Cloud Architecture: 7 hours
+	Choose and setup Backend Stack: 8 hours
+
+SP 2 total: 15 hours
+Platform Design
+	Implement RESTful API: 10 hours
+DB Design
+	Setup Cassandra cluster: 5 hours
+
+SP 3 total: 54 hours
+Platform Design
+	Secure the API (authentication & authorization): 6 hours
+	Unit test the API functions: 20 hours
+	Deploy the API: 10 hours
+DB Design
+	Create data access objects (model classes): 15 hours
+Facebook Login Integration
+	Create App and Research How-To: 2 hours
+	Static Implementation (non-integrated): 1 hour
+
+SP 4 total: 25 hours
+Platform Design
+	Further flesh out unit tests for API functions: 15 hours
+	Debugging major EC2 deployment issues: 10 hours
+
+SP 5 total so far: 32 hours
+Platform Design
+	Debug major showstopping issue with broken Maven dependencies: 10 hours
+	Implement snippets API functions: 10 hours
+	Unit test snippets API functions and deploy to EC2: 6 hours
+DB Design
+	Implement snippets resource: 6 hours
 
 // Mark
 // ------------------------------------------
