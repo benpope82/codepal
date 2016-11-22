@@ -17,9 +17,22 @@ SP2
 SP3
 - 2hr implement delete tab functionality
 - 1hr implement lang saving between tab switch
-
 - 2hr setting up jasmine annd jasmine-jquery
 - 2hr code cleanup of editor.js ui.js, and editorSpec finished
+- 3hr specs for execute, main, ui.js files
+
+SP4
+- 1hr debug CORS issue for HackerEarthAPI
+- 1hr research alternatives to hacker earth api
+- 1hr resesarch documentation and capabilities of repl.it
+- 2hr rework code editor UI
+- 2hr update spec files
+- 1hr github maintenance - issues, logs, documentations
+
+SP5
+- 3hr implement base functionality for api calls
+- 3hr implement repl.it API to replace hackerearth api
+- 1hr manual regression testing after repl.it implementation
 
 // Justin
 SP1
