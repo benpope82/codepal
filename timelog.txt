@@ -45,7 +45,7 @@ SP3
 - research ajax testing
 - implement mock ajax
 SP4
-- ~15 hours
+- ~25 hours
 - begin modelling automatic error searching
 - continue error translation and styling
 - integration with goldenLayout
@@ -53,6 +53,9 @@ SP4
 - refitting execute.js for using repl.it instead of HackerEarth API
 - researching repl.it barebones documentation
 - restyling outputs to fit repl model
+- Error handling for javascript specifically and all languages in general
+- Hello world test for all langs
+- Automatic error searching for JS
 
 // Stephen
 // ------------------------------------------
