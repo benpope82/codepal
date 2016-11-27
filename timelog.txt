@@ -70,7 +70,12 @@ SP4
 - Error handling for javascript specifically and all languages in general
 - Hello world test for all langs
 - Automatic error searching for JS
-
+SP5
+- ~20 hours so far
+- Testing and error handling for all languages
+- Testing integration with stack overflow and youtube modules
+- Research into common errors in all languages
+- Refactoring javascript in execution and utility portion of code editor
 // Stephen
 SP 1 total: 15 hours
 Platform Design
