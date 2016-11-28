@@ -35,6 +35,7 @@ SP5
 - 1hr manual regression testing after repl.it implementation
 - 2hr debugging and fixing existing specs to work with new ui and api
 - 8hr integration with Stephen's API
+- 3hr testing and debugging api implementation
 
 // Justin
 SP1
