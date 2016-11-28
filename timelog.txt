@@ -34,6 +34,7 @@ SP5
 - 3hr implement repl.it API to replace hackerearth api
 - 1hr manual regression testing after repl.it implementation
 - 2hr debugging and fixing existing specs to work with new ui and api
+- 8hr integration with Stephen's API
 
 // Justin
 SP1
