@@ -112,13 +112,19 @@ Platform Design
 	Further flesh out unit tests for API functions: 15 hours
 	Debugging major EC2 deployment issues: 10 hours
 
-SP 5 total so far: 32 hours
+SP 5 total: 47 hours
 Platform Design
 	Debug major showstopping issue with broken Maven dependencies: 10 hours
 	Implement snippets API functions: 10 hours
 	Unit test snippets API functions and deploy to EC2: 6 hours
+	Code cleanup: 2 hours
+	Extend snippet operations with list by user: 2 hour
+	Extend snippet operations with update: 6 hours
+	Unit test new operations: 3 hours
 DB Design
 	Implement snippets resource: 6 hours
+Site Reliability
+	Monitor production EC2 instance, resolve outages: 2 hours
 
 // Mark
 // ------------------------------------------
