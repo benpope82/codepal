@@ -135,7 +135,46 @@ Site Reliability
 // ------------------------------------------
 
 // Tushar
-// ------------------------------------------
+SP 1 ~12hr
+- Preliminary research to find ace editor api for code-editor module 
+- Researching GoldenLayout framework to allow multiple window display
+- Making UI mockups on Balsamiq showing Multiwindow display. 
+- wrote specs and requirements for Docs.  
+
+SP 2 ~ 32hrs
+- Learned HTML CSS on codeacademy.
+- Learning Bootstrap and practicing its grid layout.
+- Designed landing page mockup on balsamiq.
+- Designed and coded landing page using bootstrap.
+  - Researching unique fonts
+  - Playing around with different layouts for the page. 
+  - Researching branding laws for using youtube, stackoverflow logos.
+  - Researching Typer.js script for animated text.
+  - Reseaching different Monitor pics.
+- Designed the login form for the page.
+- Writing vison and requirements for the docs.
+
+SP 3 ~8-9hrs
+- Testing stackoverflow requests and responses. 
+- Adding Styling to the stackoverflow module. 
+- Writing test cases for Stackoverflow. 
+
+SP 4 ~ 12-13hrs
+- Reconfigures Node.js to run the app locally.
+- Researched the anwers api function for stackOverflow.
+- Implemented get answers function for stackoverflow module using their api.
+- Styled the question listings for stackoverflow.
+- Learned jquery for dynamically displaying and hiding answers to the questions.
+
+SP 5 ~ 15hrs
+- Researching different UI options for the Saved snippets fucntionality.
+- Trying to re-layout the GoldenLayout to add a Side Bar for saved snippets but failing 
+   to successfully implemnt it.
+- Pivoting to adding the Saved Snippets UI to the navbar as a simple dropdown list instead.
+- Styling and resizing the Navbar. 
+- Added styling to Stackoveflow and Youtube search bars.
+- Changed color of the titles for Goldenlayout modules. 
+
 
 // Andrew
 SP 1 total: ~15 hours
