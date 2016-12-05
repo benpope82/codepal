@@ -6,7 +6,7 @@ SP1 (Start - Oct 7)
 - 2hr implementing ace editor prototype
 - 4hr implementing ace editor + hackerearth api prototype
 - 1hr figuring out specs
-- 
+-
 SP2
 - 1hr implement revealing prototype module js pattern
 - 3hr implement base module with compilation/running
@@ -79,7 +79,7 @@ SP4
 SP5
 - ~44 hours so far
 - Testing and error handling for all languages
-- Testing integration with stack overflow and youtube modules
+- Testing integration with stack overflow and YouTube modules
 - Research into common errors in all languages
 - Refactoring javascript in execution and utility portion of code editor
 - Adding timeout to codde execution
@@ -128,18 +128,54 @@ DB Design
 Site Reliability
 	Monitor production EC2 instance, resolve outages: 2 hours
 
-// Mark
-// ------------------------------------------
+// Yue (Mark)
+SP1 ~12hrs
+- research possible UI frameworks
+- research GoldenLayout api and docs
+- setup initial GoldenLayout template
+- specs and requirements doc
+
+SP2 ~9hrs
+- research GoldenLayout saving states
+- GoldenLayout settings
+- integrate component mocks into GoldenLayout
+- research YouTube api
+
+SP3 ~15hrs
+- testing YouTube requests and responses
+- initial code to test YouTube functionality
+- getting video descriptions from YouTube api
+- back functionality for YouTube
+- research MVC implementation for YouTube
+
+SP4 ~22hrs
+- restructure files to separate components
+- revamp YouTube UI
+- manual testing of YouTube UI and functionality
+- debug issues with YouTube functionality
+- fix video responsiveness
+- research testing frameworks for YouTube component
+
+SP5 ~25hrs
+- initial setup of jasmine tests for YouTube
+- initial test cases for YouTube model
+- test cases to YouTube's controller and view
+- design and testing doc
+- merge YouTubeKarma.conf into karma.conf
+- debug and fix GoldenLayout UI issues
+- gapi loading in jasmine
+- updating test cases
+- documenting YouTube component
 
 // Aviral
 // ------------------------------------------
 
 // Tushar
 SP 1 ~12hr
-- Preliminary research to find ace editor api for code-editor module 
+- Preliminary research to find ace editor api for code-editor module
 - Researching GoldenLayout framework to allow multiple window display
-- Making UI mockups on Balsamiq showing Multiwindow display. 
-- wrote specs and requirements for Docs.  
+- Making UI mockups on Balsamiq showing Multiwindow display.
+- wrote specs and requirements for Docs.
 
 SP 2 ~ 32hrs
 - Learned HTML CSS on codeacademy.
@@ -147,17 +183,17 @@ SP 2 ~ 32hrs
 - Designed landing page mockup on balsamiq.
 - Designed and coded landing page using bootstrap.
   - Researching unique fonts
-  - Playing around with different layouts for the page. 
-  - Researching branding laws for using youtube, stackoverflow logos.
+  - Playing around with different layouts for the page.
+  - Researching branding laws for using YouTube, stackoverflow logos.
   - Researching Typer.js script for animated text.
   - Reseaching different Monitor pics.
 - Designed the login form for the page.
 - Writing vison and requirements for the docs.
 
 SP 3 ~8-9hrs
-- Testing stackoverflow requests and responses. 
-- Adding Styling to the stackoverflow module. 
-- Writing test cases for Stackoverflow. 
+- Testing stackoverflow requests and responses.
+- Adding Styling to the stackoverflow module.
+- Writing test cases for Stackoverflow.
 
 SP 4 ~ 12-13hrs
 - Reconfigures Node.js to run the app locally.
@@ -168,12 +204,12 @@ SP 4 ~ 12-13hrs
 
 SP 5 ~ 15hrs
 - Researching different UI options for the Saved snippets fucntionality.
-- Trying to re-layout the GoldenLayout to add a Side Bar for saved snippets but failing 
+- Trying to re-layout the GoldenLayout to add a Side Bar for saved snippets but failing
    to successfully implemnt it.
 - Pivoting to adding the Saved Snippets UI to the navbar as a simple dropdown list instead.
-- Styling and resizing the Navbar. 
-- Added styling to Stackoveflow and Youtube search bars.
-- Changed color of the titles for Goldenlayout modules. 
+- Styling and resizing the Navbar.
+- Added styling to Stackoveflow and YouTube search bars.
+- Changed color of the titles for Goldenlayout modules.
 
 
 // Andrew
@@ -197,7 +233,7 @@ SP 3 total: ~25 hours
 - integrated Stackoverflow module into Goldden Layout
 - improved GUI of Stackoverflow module
 
-SP4 total: ~25 hours 
+SP4 total: ~25 hours
 - researched FB login and Codepal API
 - designed username prompt pop-up for the home page
 - implemented FB login functionality on the client side
