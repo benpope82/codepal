@@ -77,7 +77,7 @@ SP4
 - Hello world test for all langs
 - Automatic error searching for JS
 SP5
-- ~40 hours so far
+- ~44 hours so far
 - Testing and error handling for all languages
 - Testing integration with stack overflow and youtube modules
 - Research into common errors in all languages
@@ -85,6 +85,7 @@ SP5
 - Adding timeout to codde execution
 - Work on design document
 - Writing snippet and api specs
+- re-writing specs for execution and utility
 // Stephen
 SP 1 total: 15 hours
 Platform Design
