@@ -138,4 +138,36 @@ Site Reliability
 // ------------------------------------------
 
 // Andrew
-// ------------------------------------------
+SP 1 total: ~15 hours
+- learned about Golden Layout framework
+- designed a mock-up page
+- researched Stack Exchange API (Stackoverflow integration)
+- wrote specifications and critical features of Codepal
+
+SP 2 total: ~15 hours
+- designed Stackoverflow UI
+- designed coding pattern and algorithm
+- made a simple static page of Stackoverflow for testing
+- documented features of Stackoverflow module
+
+SP 3 total: ~25 hours
+- integrated Stack Exchange API
+- tested Stackoverflow module by sending requests
+- added some stylings
+- designed test cases (and use cases) and added to documents
+- integrated Stackoverflow module into Goldden Layout
+- improved GUI of Stackoverflow module
+
+SP4 total: ~25 hours 
+- researched FB login and Codepal API
+- designed username prompt pop-up for the home page
+- implemented FB login functionality on the client side
+- sent requests to back-end server to verify users' identities
+- stored userIds and accesstokens on localStorage for future logins (unstable)
+- redirected users to the main page upon successful logins
+
+SP5 total: ~22 hours
+- learned about Jasmine and Karma for unit testing
+- refactored code for Stackoverflow module
+- filtered with more accurate results returned by Stack Exchange API
+- wrote unit test cases and got code coverage up to 100% for Stackoverflow module
