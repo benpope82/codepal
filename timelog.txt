@@ -169,6 +169,42 @@ SP5 ~25hrs
 
 // Aviral
 // ------------------------------------------
+SP1 ~13hrs
+- research (UI) 
+---- research GoldenLayout api and docs
+- specs and requirements doc
+
+SP2 ~9hrs
+- implement GoldenLayout 
+- research YouTube api
+- github issue tracking
+
+SP3 ~58hrs
+- implement YouTube
+---- getting video descriptions from YouTube api
+---- back functionality for YouTube
+- added support for landing page
+- integrating codeEditor and stackOverflow in goldenlayout 
+- github issue tracking
+- added Nav bar (on top) for the website
+
+SP4 ~47hrs
+- restructure files to separate components
+- revamp YouTube UI
+- testing of YouTube
+- github issue tracking
+
+SP5 ~19hrs
+- refactoring code
+- Created a separate component for codeeditor's output
+- initial setup of jasmine tests for YouTube
+- initial test cases for YouTube model
+- test cases to YouTube's controller and view
+- addition of async support in testing youtube
+- research for login in localStorage
+- debug and fix GoldenLayout UI issues
+- gapi loading in jasmine
+- github issue tracking
 
 // Tushar
 SP 1 ~12hr
